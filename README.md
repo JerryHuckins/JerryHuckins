@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JerryHuckins
 -    My personal project helps me make money trading securities (stocks).
-- 👀 I’m interested in Node, TypeScript, AWS Lambda, and Jest
-- 🌱 I’m currently learning Snowflake and Terraform
+- 👀 I’m interested in full-stack projects of Node, TypeScript, AWS, and Jest
+- 🌱 I’m currently learning AWS, React, MaterialUI, and TypeScript
 - 📫 How to reach me: through github
 
 <!---
